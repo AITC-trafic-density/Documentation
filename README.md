@@ -83,7 +83,24 @@ By leveraging advanced YOLO-based architectures and real-world surveillance data
 2. YOLO-based detection models analyze video frames  
 3. Backend computes vehicle counts and congestion levels  
 4. Overcrowded streets are detected using predefined thresholds  
-5. Drivers receive live warnings and alternative route suggestions via roadside displays  
+5. Drivers receive live warnings and alternative route suggestions via roadside displays
+
+<hr>
+
+## 📜 Certificate of Acceptance
+
+This paper has been **officially accepted** at:
+
+**The First Biennial National Conference on the Application of Artificial Intelligence in Traffic Control**  
+📍 University of Isfahan, Iran  
+📅 February 2025
+
+The official **Certificate of Acceptance** is available in the following directory:
+
+📄 [`AITC 2025 – Conference Paper Presentation`](https://github.com/AITC-trafic-density/Documentation/blob/main/AITC%202025%20%E2%80%93%20Conference%20Paper%20Presentation.png)<br>
+📄 [`AITC 2025 - Conference Paper Indexed in CIVILICA`](https://github.com/AITC-trafic-density/Documentation/blob/main/AITC%202025%20-%20Conference%20Paper%20Indexed%20in%20CIVILICA.png)
+
+This certificate verifies the peer-reviewed acceptance of the paper for presentation at the conference.
 
 ---
 
